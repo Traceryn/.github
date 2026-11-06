@@ -7,6 +7,6 @@
 We build practical developer tools and libraries designed to simplify workflows, improve performance and make development more enjoyable.
 
 **Explore our projects.**
-[Repositories](https://github.com/Traceryn/repositories)
+[Repositories](https://github.com/orgs/Traceryn/repositories)
 
 <sub>Build with care by developers, for developers. </sub>
